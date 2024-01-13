@@ -1,0 +1,17 @@
+{
+  "urls": [
+          ["microdot/__init__.py","github:miguelgrinberg/microdot/src/microdot/__init__.py"],
+          ["microdot/asgi.py","github:miguelgrinberg/microdot/src/microdot/asgi.py"],
+          ["microdot/cors.py","github:miguelgrinberg/microdot/src/microdot/cors.py"],
+          ["microdot/jinja.py","github:miguelgrinberg/microdot/src/microdot/jinja.py"],
+          ["microdot/microdot.py","github:miguelgrinberg/microdot/src/microdot/microdot.py"],
+          ["microdot/session.py","github:miguelgrinberg/microdot/src/microdot/session.py"],
+          ["microdot/sse.py","github:miguelgrinberg/microdot/src/microdot/sse.py"],
+          ["microdot/test_client.py","github:miguelgrinberg/microdot/src/microdot/test_client.py"],
+          ["microdot/utemplate.py","github:miguelgrinberg/microdot/src/microdot/utemplate.py"],
+          ["microdot/websocket.py","github:miguelgrinberg/microdot/src/microdot/websocket.py"],
+          ["microdot/wsgi.py","github:miguelgrinberg/microdot/src/microdot/wsgi.py"],
+  ],
+  "version": "2.0.3"
+}
+
